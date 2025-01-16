@@ -1,12 +1,12 @@
 {
-  "version": "0.0.1",
-  "version_title": "Release",
+  "version": "0.0.4",
+  "version_title": "Development",
   "announcement": {
     "status": true,
-    "updated_by": "#him",
-    "updated_at": "2025-01-06",
-    "added_features": "\n- feature 1\n- feature 2",
-    "deleted_features": "\n- feature 1\n -feature 2",
-    "file_size": "0.3 MB\n"
+    "updated_by": "hash",
+    "updated_at": "2025-01-16",
+    "added_features": "\n- massedit\n- lookup\n- injectdll2",
+    "deleted_features": "\n- none",
+    "file_size": "1.17 MB\n"
   }
 }
