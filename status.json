@@ -5,7 +5,7 @@
     "status": true,
     "updated_by": "hash",
     "updated_at": "2025-01-16",
-    "added_features": "\n- massedit\n- lookup\n- injectdll2",
+    "added_features": "\n- massedit\n- lookup\n- injectdll",
     "deleted_features": "\n- none",
     "file_size": "1.17 MB\n"
   }
