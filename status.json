@@ -1,12 +1,12 @@
 {
-  "version": "0.0.4",
+  "version": "0.2.6",
   "version_title": "Development",
   "announcement": {
     "status": true,
     "updated_by": "hash",
-    "updated_at": "2025-01-16",
-    "added_features": "\n- massedit\n- lookup\n- injectdll",
+    "updated_at": "2025-01-17",
+    "added_features": "\n- portscanner\n- proxyscraper",
     "deleted_features": "\n- none",
-    "file_size": "1.17 MB\n"
+    "file_size": "1.25 MB\n"
   }
 }
